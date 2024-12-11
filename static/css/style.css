@@ -1,0 +1,34 @@
+.first-div{
+    float: left;
+    width: 60%;
+    background-color: aliceblue;
+    margin: 5% 0% 0% 25%;
+}
+
+.first-div h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.first-div input, .first-div select{
+    float: left;
+    width: 25%;
+    font-size: 30px;
+    margin: 0% 0% 2% 3%;
+    padding: 0.5% 0% 0.5% 0%;
+    text-align: center;
+}
+.first-div button{
+    float: left;
+    width: 40%;
+    font-size: 30px;
+    margin: 0% 0% 5% 30%;
+}
+.output-div{
+    float: left;
+    width: 30%;
+    margin: 5% 0% 0% 35%;
+    border:5px solid blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
